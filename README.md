@@ -1,2 +1,3 @@
 # Simple-Quote-Generator
-#2 
+
+![preview api quote generator](./desing.png)
